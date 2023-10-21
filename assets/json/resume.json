@@ -7,7 +7,7 @@
     "phone": "",
     "url": "https://abhinav-mehta.github.io/",
     "summary": "",
-    "location": {},
+    "location": {"Bangalore", "India"},
     "profiles": []
   },
   "work": [
@@ -16,7 +16,7 @@
       "position": "Senior Backend Developer",
       "url": "",
       "startDate": "2021",
-      "endDate": "Preset",
+      "endDate": "",
       "summary": "",
       "highlights": [
         "Options Market Making"
@@ -66,6 +66,10 @@
   "languages": [
     {
       "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
       "fluency": "Fluent"
     }
   ],
