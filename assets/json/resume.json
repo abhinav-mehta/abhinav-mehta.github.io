@@ -1,5 +1,5 @@
 {
-  "Basics": {
+  "basics": {
     "name": "Abhinav Mehta",
     "label": "",
     "image": "",
@@ -10,7 +10,7 @@
     "location": {},
     "profiles": []
   },
-  "Work Experience": [
+  "work": [
     {
       "name": "Delta Exchange",
       "position": "Senior Backend Developer",
@@ -46,7 +46,7 @@
     }
   ],
   "volunteer": [],
-  "Education": [
+  "education": [
     {
       "institution": "Indian Institute of Technology Kanpur",
       "url": "",
@@ -63,7 +63,7 @@
   "certificates": [],
   "publications": [],
   "skills": [],
-  "Languages": [
+  "languages": [
     {
       "language": "English",
       "fluency": "Fluent"
