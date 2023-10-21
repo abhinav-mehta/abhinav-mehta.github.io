@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Developer
+subtitle: 
 
 profile:
   align: right
