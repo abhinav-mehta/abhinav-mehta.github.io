@@ -1,7 +1,7 @@
 {
-  "basics": {
+  "Basics": {
     "name": "Abhinav Mehta",
-    "label": "Software Developer",
+    "label": "",
     "image": "",
     "email": "abhinavmehta2018@gmail.com",
     "phone": "",
@@ -10,7 +10,7 @@
     "location": {},
     "profiles": []
   },
-  "work": [
+  "Work Experience": [
     {
       "name": "Delta Exchange",
       "position": "Senior Backend Developer",
@@ -35,7 +35,7 @@
     }
   ],
   "volunteer": [],
-  "education": [
+  "Education": [
     {
       "institution": "Indian Institute of Technology Kanpur",
       "url": "",
@@ -52,7 +52,7 @@
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
+  "Languages": [
     {
       "language": "Hindi",
       "fluency": "Fluent"
