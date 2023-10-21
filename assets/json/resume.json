@@ -51,7 +51,7 @@
   "awards": [],
   "certificates": [],
   "publications": [],
-  "skills": [Go, Python, C++, Redis, SQL, Docker, Git, Vim],
+  "skills": ["Go", "Python", "C++", "Redis", "SQL", "Docker", "Git", "Vim"],
   "languages": [
     {
       "language": "Hindi",
@@ -62,7 +62,7 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [Bouldering, Powerlifting, Reading],
+  "interests": ["Bouldering", "Powerlifting", "Reading"],
   "references": [],
   "projects": []
 }
