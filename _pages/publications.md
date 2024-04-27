@@ -1,6 +1,6 @@
 ---
 layout: Archives
-permalink: /publications/
+permalink: /notes/
 title: Notes
 description: Some notes on different topics in no order
 nav: true
