@@ -1,7 +1,7 @@
 ---
 layout: Archives
 permalink: /publications/
-title: publications
+title: Notes
 description: Some notes on different topics in no order
 nav: true
 nav_order: 1
